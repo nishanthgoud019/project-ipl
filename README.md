@@ -1,3 +1,4 @@
+<img width="1920" height="1020" alt="Screenshot 2025-01-27 143153" src="https://github.com/user-attachments/assets/eae8725e-86bc-4c4c-999d-bbbc17ca563a" />
 # 🏏 IPL Victory Predictor
 
 A Machine Learning-based web application that predicts the **winning probability of IPL teams** based on real-time match conditions.
@@ -39,7 +40,6 @@ git clone https://github.com/nishanthgoud019/project-ipl.git
 cd project-ipl
 ---
 ## 👨‍💻 Author
-
 Mukthala Nishanth  
 📍 Hyderabad, India  
 GitHub: https://github.com/nishanthgoud019
