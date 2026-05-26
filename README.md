@@ -1,16 +1,7 @@
 # IPL-Winner-Predictor 🏏🔮
 
-[![Build Status](https://travis-ci.org/swapagarwal/JARVIS-on-Messenger.svg?branch=master)](https://travis-ci.org/swapagarwal/JARVIS-on-Messenger)
-![Python](https://img.shields.io/badge/python-3.7.7-blue.svg)
-[![PEP8](https://img.shields.io/badge/code%20style-pep8-orange.svg)](https://www.python.org/dev/peps/pep-0008/)
-[![Gitmoji](https://img.shields.io/badge/gitmoji-%20🚀%20🐳-FFDD67.svg)](https://gitmoji.carloscuesta.me)
-
-## The Projet is live at:- [IPL Winner Predictor](https://iplpredictor.streamlit.app/)
-
 ## 📖 Introduction
 The IPL Victory Predictor project is a powerful tool that harnesses the power of machine learning to forecast the outcome of matches in the Indian Premier League (IPL) 📈🏆. With its rich dataset containing information on every ball thrown from 2008 to 2021, this project aims to provide cricket enthusiasts, data analysts, and team strategists with valuable insights into team performance and factors influencing victory. 💪📊
-
-Furthermore, the project includes a YouTube video 🎥 that showcases a live demonstration of the IPL Victory Predictor in action as well as steps by step explanation about source code. This video serves as a comprehensive guide, walking users through the functionalities of the application and highlighting its features and capabilities. 📺🎬
 
 Whether you're a cricket fanatic, a data enthusiast, or simply curious about the power of machine learning, the IPL Victory Predictor project promises an exciting journey into the realm of cricket analysis and prediction. So, dive in, explore the possibilities, and let the numbers guide you towards unraveling the mysteries of the IPL! 🏏🔮
 
@@ -58,17 +49,7 @@ Run the project:
 streamlit run main.py
 ```
 
-## 📺 YouTube Video
-Project demo :- [IPL victory predictor using python](https://youtu.be/t63T4-ZvMhM)
 
-<img src="https://github.com/AdityaWadkar/IPL-Winner-Predictor/assets/67093170/dc9a5d42-a0be-44ce-87eb-24bbc021745e">
-
-## 🤝 Contributing 
-🏆🏏 Contributions to the IPL Victory Predictor project are highly appreciated! If you're passionate about cricket and data analysis, we'd love to have you on board. 🤝🌟✨
-
-🔥🔥 To contribute, simply make a pull request 📥 with your awesome additions or improvements. I'll personally review it and gladly accept it if it meets the project's standards. ✅👍
-
-## Authors
 
 - [@Aditya Wadkar](https://www.github.com/AdityaWadkar)
 
